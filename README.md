@@ -9,7 +9,7 @@ Terimakasih 😉
 # 🎓 Projects
 
 - [**Website**](https://hanifdwyputra.xyz)
-- [**Instagram Scraper**](https://ig.hanifdwyputra.xyz)
+- [**Instagram Scraper**](https://instagram.hanifdwyputra.xyz)
 
 # 👍 Hobby
 
