@@ -18,3 +18,7 @@ Terimakasih 😉
 - **Coding 💻**
 - **Problem Solving 🎆**
 - **Learn new Programming Language**
+
+## My GitHub Statistics
+[![GiHhub Stats](https://github-readme-stats.vercel.app/api?username=hansputera&show_icons=true&theme=dark)](https://github.com/hansputera)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansputera&layout=compact&theme=dark)](https://github.com/hansputera)
