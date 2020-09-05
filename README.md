@@ -22,6 +22,11 @@ Terimakasih 😉
 # Recent Activities
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#3](https://github.com//zhycorp/zhycorp.js/pull/3) in [zhycorp/zhycorp.js](https://github.com//zhycorp/zhycorp.js)
+2. 💪 Opened PR [#2](https://github.com//zhycorp/zhycorp.js/pull/2) in [zhycorp/zhycorp.js](https://github.com//zhycorp/zhycorp.js)
+3. 🗣 Commented on [#1](https://github.com//hansputera/discord-experiment-login/issues/1) in [hansputera/discord-experiment-login](https://github.com//hansputera/discord-experiment-login)
+4. ❗️ Opened issue [#1](https://github.com//hansputera/discord-experiment-login/issues/1) in [hansputera/discord-experiment-login](https://github.com//hansputera/discord-experiment-login)
+5. 💪 Opened PR [#2](https://github.com//KagChi/xbl-api/pull/2) in [KagChi/xbl-api](https://github.com//KagChi/xbl-api)
 <!--END_SECTION:activity-->
 
 # Code Activity
