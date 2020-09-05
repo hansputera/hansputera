@@ -19,6 +19,16 @@ Terimakasih 😉
 - **Problem Solving 🎆**
 - **Learn new Programming Language**
 
+# Recent Activities
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+# Code Activity
+
+<!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
+
 ## My GitHub Statistics
 [![GiHhub Stats](https://github-readme-stats.vercel.app/api?username=hansputera&show_icons=true&theme=dark)](https://github.com/hansputera)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansputera&layout=compact&theme=dark)](https://github.com/hansputera)
