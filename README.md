@@ -22,11 +22,11 @@ Terimakasih 😉
 # Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com//defrindr/brainly-scraper/issues/4) in [defrindr/brainly-scraper](https://github.com//defrindr/brainly-scraper)
-2. 💪 Opened PR [#3](https://github.com//zhycorp/zhycorp.js/pull/3) in [zhycorp/zhycorp.js](https://github.com//zhycorp/zhycorp.js)
-3. 💪 Opened PR [#2](https://github.com//zhycorp/zhycorp.js/pull/2) in [zhycorp/zhycorp.js](https://github.com//zhycorp/zhycorp.js)
-4. 🗣 Commented on [#1](https://github.com//hansputera/discord-experiment-login/issues/1) in [hansputera/discord-experiment-login](https://github.com//hansputera/discord-experiment-login)
-5. ❗️ Opened issue [#1](https://github.com//hansputera/discord-experiment-login/issues/1) in [hansputera/discord-experiment-login](https://github.com//hansputera/discord-experiment-login)
+1. 🎉 Merged PR [#1](https://github.com//hansputera/mongodb-accountgen/pull/1) in [hansputera/mongodb-accountgen](https://github.com//hansputera/mongodb-accountgen)
+2. 🗣 Commented on [#4](https://github.com//defrindr/brainly-scraper/issues/4) in [defrindr/brainly-scraper](https://github.com//defrindr/brainly-scraper)
+3. 💪 Opened PR [#3](https://github.com//zhycorp/zhycorp.js/pull/3) in [zhycorp/zhycorp.js](https://github.com//zhycorp/zhycorp.js)
+4. 💪 Opened PR [#2](https://github.com//zhycorp/zhycorp.js/pull/2) in [zhycorp/zhycorp.js](https://github.com//zhycorp/zhycorp.js)
+5. 🗣 Commented on [#1](https://github.com//hansputera/discord-experiment-login/issues/1) in [hansputera/discord-experiment-login](https://github.com//hansputera/discord-experiment-login)
 <!--END_SECTION:activity-->
 
 # Code Activity
