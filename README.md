@@ -1,9 +1,5 @@
 # Hello 😷
 
-Halo semua aku berasal dari Sulawesi Tengah Kota Palu, sekarang aku tertarik pada bahasa pemrograman javascript dan typescript.
-```ts
-import me from "you";
-```
 Terimakasih 😉
 
 # 🎓 Projects
@@ -12,6 +8,7 @@ Terimakasih 😉
 - [**Instagram Scraper**](https://instagram.hanifdwyputra.xyz)
 - [**1CAK Scraper**](https://1cak.hanifdwyputra.xyz)
 - [**Uptime**](https://uptime.hanifdwyputra.xyz)
+- [**Brainly**](https://brainly.hanifdwyputra.xyz)
 
 # 👍 Hobby
 
@@ -28,11 +25,6 @@ Terimakasih 😉
 4. 💪 Opened PR [#3](https://github.com//zhycorp/zhycorp.js/pull/3) in [zhycorp/zhycorp.js](https://github.com//zhycorp/zhycorp.js)
 5. 💪 Opened PR [#2](https://github.com//zhycorp/zhycorp.js/pull/2) in [zhycorp/zhycorp.js](https://github.com//zhycorp/zhycorp.js)
 <!--END_SECTION:activity-->
-
-# Code Activity
-
-<!--START_SECTION:waka-->
-<!--START_SECTION:waka-->
 
 ## My GitHub Statistics
 [![GiHhub Stats](https://github-readme-stats.vercel.app/api?username=hansputera&show_icons=true&theme=dark)](https://github.com/hansputera)
