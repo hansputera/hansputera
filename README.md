@@ -19,11 +19,11 @@ Terimakasih 😉
 # Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com//hansputera/mongodb-accountgen/pull/2) in [hansputera/mongodb-accountgen](https://github.com//hansputera/mongodb-accountgen)
-2. ❗️ Opened issue [#13](https://github.com//DrKain/scrape-youtube/issues/13) in [DrKain/scrape-youtube](https://github.com//DrKain/scrape-youtube)
-3. 🗣 Commented on [#4](https://github.com//defrindr/brainly-scraper/issues/4) in [defrindr/brainly-scraper](https://github.com//defrindr/brainly-scraper)
-4. ❗️ Opened issue [#12](https://github.com//DrKain/scrape-youtube/issues/12) in [DrKain/scrape-youtube](https://github.com//DrKain/scrape-youtube)
-5. 🎉 Merged PR [#1](https://github.com//hansputera/mongodb-accountgen/pull/1) in [hansputera/mongodb-accountgen](https://github.com//hansputera/mongodb-accountgen)
+1. 🗣 Commented on [#13](https://github.com//DrKain/scrape-youtube/issues/13) in [DrKain/scrape-youtube](https://github.com//DrKain/scrape-youtube)
+2. 🎉 Merged PR [#2](https://github.com//hansputera/mongodb-accountgen/pull/2) in [hansputera/mongodb-accountgen](https://github.com//hansputera/mongodb-accountgen)
+3. ❗️ Opened issue [#13](https://github.com//DrKain/scrape-youtube/issues/13) in [DrKain/scrape-youtube](https://github.com//DrKain/scrape-youtube)
+4. 🗣 Commented on [#4](https://github.com//defrindr/brainly-scraper/issues/4) in [defrindr/brainly-scraper](https://github.com//defrindr/brainly-scraper)
+5. ❗️ Opened issue [#12](https://github.com//DrKain/scrape-youtube/issues/12) in [DrKain/scrape-youtube](https://github.com//DrKain/scrape-youtube)
 <!--END_SECTION:activity-->
 
 ## My GitHub Statistics
