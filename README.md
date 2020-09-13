@@ -19,9 +19,9 @@ Terimakasih 😉
 # Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com//defrindr/brainly-scraper/issues/10) in [defrindr/brainly-scraper](https://github.com//defrindr/brainly-scraper)
-2. 💪 Opened PR [#10](https://github.com//defrindr/brainly-scraper/pull/10) in [defrindr/brainly-scraper](https://github.com//defrindr/brainly-scraper)
-3. 🗣 Commented on [#9](https://github.com//defrindr/brainly-scraper/issues/9) in [defrindr/brainly-scraper](https://github.com//defrindr/brainly-scraper)
+1. 🗣 Commented on [#9](https://github.com//defrindr/brainly-scraper/issues/9) in [defrindr/brainly-scraper](https://github.com//defrindr/brainly-scraper)
+2. 🗣 Commented on [#10](https://github.com//defrindr/brainly-scraper/issues/10) in [defrindr/brainly-scraper](https://github.com//defrindr/brainly-scraper)
+3. 💪 Opened PR [#10](https://github.com//defrindr/brainly-scraper/pull/10) in [defrindr/brainly-scraper](https://github.com//defrindr/brainly-scraper)
 4. 🗣 Commented on [#9](https://github.com//defrindr/brainly-scraper/issues/9) in [defrindr/brainly-scraper](https://github.com//defrindr/brainly-scraper)
 5. 🗣 Commented on [#9](https://github.com//defrindr/brainly-scraper/issues/9) in [defrindr/brainly-scraper](https://github.com//defrindr/brainly-scraper)
 <!--END_SECTION:activity-->
