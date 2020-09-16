@@ -1,14 +1,5 @@
-# Hello 😷
-
-Terimakasih 😉
-
-# 🎓 Projects
-
-- [**Website**](https://hanifdwyputra.xyz)
-- [**Instagram Scraper**](https://instagram.hanifdwyputra.xyz)
-- [**1CAK Scraper**](https://1cak.hanifdwyputra.xyz)
-- [**Uptime**](https://uptime.hanifdwyputra.xyz)
-- [**Brainly**](https://brainly.hanifdwyputra.xyz)
+# HELLO WORLD !
+Interested in the way the bot works. And, scraping.
 
 # 👍 Hobby
 
