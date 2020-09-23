@@ -10,11 +10,11 @@ Interested in the way the bot works. And, scraping.
 # Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#341](https://github.com//seejohnrun/haste-server/pull/341) in [seejohnrun/haste-server](https://github.com//seejohnrun/haste-server)
-2. 💪 Opened PR [#341](https://github.com//seejohnrun/haste-server/pull/341) in [seejohnrun/haste-server](https://github.com//seejohnrun/haste-server)
-3. 🗣 Commented on [#1](https://github.com//hansputera/discord-experiment-login/issues/1) in [hansputera/discord-experiment-login](https://github.com//hansputera/discord-experiment-login)
-4. 🗣 Commented on [#12](https://github.com//Matix-Media/discord-alt-token-generator/issues/12) in [Matix-Media/discord-alt-token-generator](https://github.com//Matix-Media/discord-alt-token-generator)
-5. ❗️ Closed issue [#2](https://github.com//hansputera/whatsapp-bot/issues/2) in [hansputera/whatsapp-bot](https://github.com//hansputera/whatsapp-bot)
+1. 🎉 Merged PR [#3](https://github.com//hansputera/zhycorp-api-wrapper/pull/3) in [hansputera/zhycorp-api-wrapper](https://github.com//hansputera/zhycorp-api-wrapper)
+2. 🎉 Merged PR [#5](https://github.com//hansputera/zhycorp-api-wrapper/pull/5) in [hansputera/zhycorp-api-wrapper](https://github.com//hansputera/zhycorp-api-wrapper)
+3. 🎉 Merged PR [#4](https://github.com//hansputera/zhycorp-api-wrapper/pull/4) in [hansputera/zhycorp-api-wrapper](https://github.com//hansputera/zhycorp-api-wrapper)
+4. 🎉 Merged PR [#1](https://github.com//hansputera/bot-doggy/pull/1) in [hansputera/bot-doggy](https://github.com//hansputera/bot-doggy)
+5. ❌ Closed PR [#341](https://github.com//seejohnrun/haste-server/pull/341) in [seejohnrun/haste-server](https://github.com//seejohnrun/haste-server)
 <!--END_SECTION:activity-->
 
 ## My GitHub Statistics
