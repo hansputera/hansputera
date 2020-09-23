@@ -20,3 +20,7 @@ Interested in the way the bot works. And, scraping.
 ## My GitHub Statistics
 [![GiHhub Stats](https://github-readme-stats.vercel.app/api?username=hansputera&show_icons=true&theme=dark)](https://github.com/hansputera)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansputera&layout=compact&theme=dark)](https://github.com/hansputera)
+
+## Social Media
+
+![Discord](https://discord.c99.nl/widget/theme-3/642518159013969920.png)
