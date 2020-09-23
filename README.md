@@ -24,3 +24,4 @@ Interested in the way the bot works. And, scraping.
 ## Social Media
 
 ![Discord](https://discord.c99.nl/widget/theme-3/642518159013969920.png)
+- [Instagram](https://instagram.com/hanif.dwy.putra12)
