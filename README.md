@@ -10,11 +10,11 @@ Interested in the way the bot works. And, scraping.
 # Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com//hansputera/whatsapp-bot/issues/6) in [hansputera/whatsapp-bot](https://github.com//hansputera/whatsapp-bot)
-2. 🎉 Merged PR [#4](https://github.com//hansputera/mongodb-accountgen/pull/4) in [hansputera/mongodb-accountgen](https://github.com//hansputera/mongodb-accountgen)
-3. 🎉 Merged PR [#1](https://github.com//hansputera/darknudes/pull/1) in [hansputera/darknudes](https://github.com//hansputera/darknudes)
-4. 🎉 Merged PR [#4](https://github.com//hansputera/whatsapp-bot/pull/4) in [hansputera/whatsapp-bot](https://github.com//hansputera/whatsapp-bot)
-5. 🎉 Merged PR [#5](https://github.com//hansputera/whatsapp-bot/pull/5) in [hansputera/whatsapp-bot](https://github.com//hansputera/whatsapp-bot)
+1. 🎉 Merged PR [#5](https://github.com//hansputera/mongodb-accountgen/pull/5) in [hansputera/mongodb-accountgen](https://github.com//hansputera/mongodb-accountgen)
+2. 🗣 Commented on [#6](https://github.com//hansputera/whatsapp-bot/issues/6) in [hansputera/whatsapp-bot](https://github.com//hansputera/whatsapp-bot)
+3. 🎉 Merged PR [#4](https://github.com//hansputera/mongodb-accountgen/pull/4) in [hansputera/mongodb-accountgen](https://github.com//hansputera/mongodb-accountgen)
+4. 🎉 Merged PR [#1](https://github.com//hansputera/darknudes/pull/1) in [hansputera/darknudes](https://github.com//hansputera/darknudes)
+5. 🎉 Merged PR [#4](https://github.com//hansputera/whatsapp-bot/pull/4) in [hansputera/whatsapp-bot](https://github.com//hansputera/whatsapp-bot)
 <!--END_SECTION:activity-->
 
 ## My GitHub Statistics
