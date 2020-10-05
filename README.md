@@ -13,11 +13,11 @@ A 13 y.o. Back-End developer who like create Websites, Bots, and API + Scraping 
 # Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/hansputera/brainly-scraper-languages/issues/1) in [hansputera/brainly-scraper-languages](https://github.com/hansputera/brainly-scraper-languages)
-2. ❗️ Closed issue [#1](https://github.com/hansputera/discord-experiment-login/issues/1) in [hansputera/discord-experiment-login](https://github.com/hansputera/discord-experiment-login)
-3. 🗣 Commented on [#1](https://github.com/hansputera/discord-experiment-login/issues/1) in [hansputera/discord-experiment-login](https://github.com/hansputera/discord-experiment-login)
-4. ❗️ Opened issue [#1](https://github.com/hansputera/belajar-promise-ts/issues/1) in [hansputera/belajar-promise-ts](https://github.com/hansputera/belajar-promise-ts)
-5. 🎉 Merged PR [#5](https://github.com/hansputera/mongodb-accountgen/pull/5) in [hansputera/mongodb-accountgen](https://github.com/hansputera/mongodb-accountgen)
+1. ❗️ Opened issue [#2453](https://github.com/pterodactyl/panel/issues/2453) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
+2. 🗣 Commented on [#1](https://github.com/hansputera/brainly-scraper-languages/issues/1) in [hansputera/brainly-scraper-languages](https://github.com/hansputera/brainly-scraper-languages)
+3. ❗️ Closed issue [#1](https://github.com/hansputera/discord-experiment-login/issues/1) in [hansputera/discord-experiment-login](https://github.com/hansputera/discord-experiment-login)
+4. 🗣 Commented on [#1](https://github.com/hansputera/discord-experiment-login/issues/1) in [hansputera/discord-experiment-login](https://github.com/hansputera/discord-experiment-login)
+5. ❗️ Opened issue [#1](https://github.com/hansputera/belajar-promise-ts/issues/1) in [hansputera/belajar-promise-ts](https://github.com/hansputera/belajar-promise-ts)
 <!--END_SECTION:activity-->
 
 ## My GitHub Statistics
