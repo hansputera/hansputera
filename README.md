@@ -13,11 +13,11 @@ A 13 y.o. Back-End developer who like create Websites, Bots, and API + Scraping 
 # Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#366](https://github.com/kyranet/canvas-constructor/issues/366) in [kyranet/canvas-constructor](https://github.com/kyranet/canvas-constructor)
-2. 🗣 Commented on [#2](https://github.com/zlucifer/termux_insta/issues/2) in [zlucifer/termux_insta](https://github.com/zlucifer/termux_insta)
-3. ❗️ Opened issue [#1](https://github.com/zlucifer/sms_bomb/issues/1) in [zlucifer/sms_bomb](https://github.com/zlucifer/sms_bomb)
-4. 💪 Opened PR [#1](https://github.com/DemuraAIdev/heroku-bot/pull/1) in [DemuraAIdev/heroku-bot](https://github.com/DemuraAIdev/heroku-bot)
-5. 🗣 Commented on [#2459](https://github.com/pterodactyl/panel/issues/2459) in [pterodactyl/panel](https://github.com/pterodactyl/panel)
+1. ❗️ Opened issue [#2](https://github.com/Mr-R0N1Z/deface/issues/2) in [Mr-R0N1Z/deface](https://github.com/Mr-R0N1Z/deface)
+2. 🗣 Commented on [#5](https://github.com/zlucifer/troll_project/issues/5) in [zlucifer/troll_project](https://github.com/zlucifer/troll_project)
+3. ❗️ Opened issue [#366](https://github.com/kyranet/canvas-constructor/issues/366) in [kyranet/canvas-constructor](https://github.com/kyranet/canvas-constructor)
+4. 🗣 Commented on [#2](https://github.com/zlucifer/termux_insta/issues/2) in [zlucifer/termux_insta](https://github.com/zlucifer/termux_insta)
+5. ❗️ Opened issue [#1](https://github.com/zlucifer/sms_bomb/issues/1) in [zlucifer/sms_bomb](https://github.com/zlucifer/sms_bomb)
 <!--END_SECTION:activity-->
 
 ## My GitHub Statistics
