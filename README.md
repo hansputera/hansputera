@@ -13,11 +13,11 @@ A 13 y.o. Back-End developer who like create Websites, Bots, and API + Scraping 
 # Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/zlucifer/troll_project/issues/5) in [zlucifer/troll_project](https://github.com/zlucifer/troll_project)
+1. ❗️ Closed issue [#2](https://github.com/Mr-R0N1Z/deface/issues/2) in [Mr-R0N1Z/deface](https://github.com/Mr-R0N1Z/deface)
 2. 🗣 Commented on [#5](https://github.com/zlucifer/troll_project/issues/5) in [zlucifer/troll_project](https://github.com/zlucifer/troll_project)
-3. ❗️ Opened issue [#2](https://github.com/Mr-R0N1Z/deface/issues/2) in [Mr-R0N1Z/deface](https://github.com/Mr-R0N1Z/deface)
-4. 🗣 Commented on [#5](https://github.com/zlucifer/troll_project/issues/5) in [zlucifer/troll_project](https://github.com/zlucifer/troll_project)
-5. ❗️ Opened issue [#366](https://github.com/kyranet/canvas-constructor/issues/366) in [kyranet/canvas-constructor](https://github.com/kyranet/canvas-constructor)
+3. 🗣 Commented on [#5](https://github.com/zlucifer/troll_project/issues/5) in [zlucifer/troll_project](https://github.com/zlucifer/troll_project)
+4. ❗️ Opened issue [#2](https://github.com/Mr-R0N1Z/deface/issues/2) in [Mr-R0N1Z/deface](https://github.com/Mr-R0N1Z/deface)
+5. 🗣 Commented on [#5](https://github.com/zlucifer/troll_project/issues/5) in [zlucifer/troll_project](https://github.com/zlucifer/troll_project)
 <!--END_SECTION:activity-->
 
 ## My GitHub Statistics
