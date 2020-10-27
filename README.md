@@ -13,11 +13,11 @@ A 13 y.o. Back-End developer who like create Websites, Bots, and API + Scraping 
 # Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/NishimiyaYuzuru/roni/issues/2) in [NishimiyaYuzuru/roni](https://github.com/NishimiyaYuzuru/roni)
-2. 🗣 Commented on [#3](https://github.com/NishimiyaYuzuru/roni/issues/3) in [NishimiyaYuzuru/roni](https://github.com/NishimiyaYuzuru/roni)
-3. 🗣 Commented on [#10](https://github.com/shidoitsuka/hi-hacktoberfest/issues/10) in [shidoitsuka/hi-hacktoberfest](https://github.com/shidoitsuka/hi-hacktoberfest)
+1. 🗣 Commented on [#8159](https://github.com/github/dmca/issues/8159) in [github/dmca](https://github.com/github/dmca)
+2. 🗣 Commented on [#2](https://github.com/NishimiyaYuzuru/roni/issues/2) in [NishimiyaYuzuru/roni](https://github.com/NishimiyaYuzuru/roni)
+3. 🗣 Commented on [#3](https://github.com/NishimiyaYuzuru/roni/issues/3) in [NishimiyaYuzuru/roni](https://github.com/NishimiyaYuzuru/roni)
 4. 🗣 Commented on [#10](https://github.com/shidoitsuka/hi-hacktoberfest/issues/10) in [shidoitsuka/hi-hacktoberfest](https://github.com/shidoitsuka/hi-hacktoberfest)
-5. 🗣 Commented on [#21](https://github.com/pashayogi/SETAN/issues/21) in [pashayogi/SETAN](https://github.com/pashayogi/SETAN)
+5. 🗣 Commented on [#10](https://github.com/shidoitsuka/hi-hacktoberfest/issues/10) in [shidoitsuka/hi-hacktoberfest](https://github.com/shidoitsuka/hi-hacktoberfest)
 <!--END_SECTION:activity-->
 
 ## My GitHub Statistics
