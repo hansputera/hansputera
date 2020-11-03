@@ -13,11 +13,11 @@ A 13 y.o. Back-End developer who like create Websites, Bots, and API + Scraping 
 # Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/hansputera/mongodb-accountgen/pull/7) in [hansputera/mongodb-accountgen](https://github.com/hansputera/mongodb-accountgen)
-2. 🎉 Merged PR [#8](https://github.com/hansputera/mongodb-accountgen/pull/8) in [hansputera/mongodb-accountgen](https://github.com/hansputera/mongodb-accountgen)
-3. ❗️ Opened issue [#1](https://github.com/Asyraf320/hdhasfodsh/issues/1) in [Asyraf320/hdhasfodsh](https://github.com/Asyraf320/hdhasfodsh)
-4. 🗣 Commented on [#8159](https://github.com/github/dmca/issues/8159) in [github/dmca](https://github.com/github/dmca)
-5. 🗣 Commented on [#2](https://github.com/NishimiyaYuzuru/roni/issues/2) in [NishimiyaYuzuru/roni](https://github.com/NishimiyaYuzuru/roni)
+1. ❗️ Opened issue [#367](https://github.com/kyranet/canvas-constructor/issues/367) in [kyranet/canvas-constructor](https://github.com/kyranet/canvas-constructor)
+2. 🎉 Merged PR [#7](https://github.com/hansputera/mongodb-accountgen/pull/7) in [hansputera/mongodb-accountgen](https://github.com/hansputera/mongodb-accountgen)
+3. 🎉 Merged PR [#8](https://github.com/hansputera/mongodb-accountgen/pull/8) in [hansputera/mongodb-accountgen](https://github.com/hansputera/mongodb-accountgen)
+4. ❗️ Opened issue [#1](https://github.com/Asyraf320/hdhasfodsh/issues/1) in [Asyraf320/hdhasfodsh](https://github.com/Asyraf320/hdhasfodsh)
+5. 🗣 Commented on [#8159](https://github.com/github/dmca/issues/8159) in [github/dmca](https://github.com/github/dmca)
 <!--END_SECTION:activity-->
 
 ## My GitHub Statistics
