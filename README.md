@@ -13,11 +13,11 @@ A 13 y.o. Back-End developer who like create Websites, Bots, and API + Scraping 
 # Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#367](https://github.com/kyranet/canvas-constructor/issues/367) in [kyranet/canvas-constructor](https://github.com/kyranet/canvas-constructor)
-2. 🗣 Commented on [#367](https://github.com/kyranet/canvas-constructor/issues/367) in [kyranet/canvas-constructor](https://github.com/kyranet/canvas-constructor)
-3. ❗️ Opened issue [#367](https://github.com/kyranet/canvas-constructor/issues/367) in [kyranet/canvas-constructor](https://github.com/kyranet/canvas-constructor)
-4. 🎉 Merged PR [#7](https://github.com/hansputera/mongodb-accountgen/pull/7) in [hansputera/mongodb-accountgen](https://github.com/hansputera/mongodb-accountgen)
-5. 🎉 Merged PR [#8](https://github.com/hansputera/mongodb-accountgen/pull/8) in [hansputera/mongodb-accountgen](https://github.com/hansputera/mongodb-accountgen)
+1. ❗️ Opened issue [#486](https://github.com/JoshuaWise/better-sqlite3/issues/486) in [JoshuaWise/better-sqlite3](https://github.com/JoshuaWise/better-sqlite3)
+2. ❗️ Closed issue [#367](https://github.com/kyranet/canvas-constructor/issues/367) in [kyranet/canvas-constructor](https://github.com/kyranet/canvas-constructor)
+3. 🗣 Commented on [#367](https://github.com/kyranet/canvas-constructor/issues/367) in [kyranet/canvas-constructor](https://github.com/kyranet/canvas-constructor)
+4. ❗️ Opened issue [#367](https://github.com/kyranet/canvas-constructor/issues/367) in [kyranet/canvas-constructor](https://github.com/kyranet/canvas-constructor)
+5. 🎉 Merged PR [#7](https://github.com/hansputera/mongodb-accountgen/pull/7) in [hansputera/mongodb-accountgen](https://github.com/hansputera/mongodb-accountgen)
 <!--END_SECTION:activity-->
 
 ## My GitHub Statistics
