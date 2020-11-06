@@ -26,5 +26,5 @@ A 13 y.o. Back-End developer who like create Websites, Bots, and API + Scraping 
 
 ## Social Media
 
-![Discord](https://discord.c99.nl/widget/theme-3/642518159013969920.png)
+![Discord](https://discord.c99.nl/widget/theme-3/761198669302464533.png)
 - [Instagram](https://instagram.com/hanif.dwy.putra12)
