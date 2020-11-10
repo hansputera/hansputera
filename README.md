@@ -13,11 +13,11 @@ A 13 y.o. Back-End developer who like create Websites, Bots, and API + Scraping 
 # Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/hansputera/whatsapp-bot/pull/18) in [hansputera/whatsapp-bot](https://github.com/hansputera/whatsapp-bot)
-2. 🗣 Commented on [#487](https://github.com/JoshuaWise/better-sqlite3/issues/487) in [JoshuaWise/better-sqlite3](https://github.com/JoshuaWise/better-sqlite3)
-3. 🗣 Commented on [#446](https://github.com/JoshuaWise/better-sqlite3/issues/446) in [JoshuaWise/better-sqlite3](https://github.com/JoshuaWise/better-sqlite3)
-4. 🗣 Commented on [#463](https://github.com/JoshuaWise/better-sqlite3/issues/463) in [JoshuaWise/better-sqlite3](https://github.com/JoshuaWise/better-sqlite3)
-5. 🗣 Commented on [#487](https://github.com/JoshuaWise/better-sqlite3/issues/487) in [JoshuaWise/better-sqlite3](https://github.com/JoshuaWise/better-sqlite3)
+1. ❗️ Closed issue [#486](https://github.com/JoshuaWise/better-sqlite3/issues/486) in [JoshuaWise/better-sqlite3](https://github.com/JoshuaWise/better-sqlite3)
+2. 🗣 Commented on [#486](https://github.com/JoshuaWise/better-sqlite3/issues/486) in [JoshuaWise/better-sqlite3](https://github.com/JoshuaWise/better-sqlite3)
+3. 🎉 Merged PR [#18](https://github.com/hansputera/whatsapp-bot/pull/18) in [hansputera/whatsapp-bot](https://github.com/hansputera/whatsapp-bot)
+4. 🗣 Commented on [#487](https://github.com/JoshuaWise/better-sqlite3/issues/487) in [JoshuaWise/better-sqlite3](https://github.com/JoshuaWise/better-sqlite3)
+5. 🗣 Commented on [#446](https://github.com/JoshuaWise/better-sqlite3/issues/446) in [JoshuaWise/better-sqlite3](https://github.com/JoshuaWise/better-sqlite3)
 <!--END_SECTION:activity-->
 
 ## My GitHub Statistics
