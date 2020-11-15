@@ -13,11 +13,11 @@ A 13 y.o. Back-End developer who like create Websites, Bots, and API + Scraping 
 # Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11](https://github.com/codeonline-io/codeonline-community/issues/11) in [codeonline-io/codeonline-community](https://github.com/codeonline-io/codeonline-community)
-2. 🗣 Commented on [#487](https://github.com/JoshuaWise/better-sqlite3/issues/487) in [JoshuaWise/better-sqlite3](https://github.com/JoshuaWise/better-sqlite3)
+1. 🗣 Commented on [#11](https://github.com/codeonline-io/codeonline-community/issues/11) in [codeonline-io/codeonline-community](https://github.com/codeonline-io/codeonline-community)
+2. ❗️ Opened issue [#11](https://github.com/codeonline-io/codeonline-community/issues/11) in [codeonline-io/codeonline-community](https://github.com/codeonline-io/codeonline-community)
 3. 🗣 Commented on [#487](https://github.com/JoshuaWise/better-sqlite3/issues/487) in [JoshuaWise/better-sqlite3](https://github.com/JoshuaWise/better-sqlite3)
-4. ❗️ Closed issue [#486](https://github.com/JoshuaWise/better-sqlite3/issues/486) in [JoshuaWise/better-sqlite3](https://github.com/JoshuaWise/better-sqlite3)
-5. 🗣 Commented on [#486](https://github.com/JoshuaWise/better-sqlite3/issues/486) in [JoshuaWise/better-sqlite3](https://github.com/JoshuaWise/better-sqlite3)
+4. 🗣 Commented on [#487](https://github.com/JoshuaWise/better-sqlite3/issues/487) in [JoshuaWise/better-sqlite3](https://github.com/JoshuaWise/better-sqlite3)
+5. ❗️ Closed issue [#486](https://github.com/JoshuaWise/better-sqlite3/issues/486) in [JoshuaWise/better-sqlite3](https://github.com/JoshuaWise/better-sqlite3)
 <!--END_SECTION:activity-->
 
 ## My GitHub Statistics
