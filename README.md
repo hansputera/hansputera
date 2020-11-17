@@ -13,9 +13,9 @@ A 13 y.o. Back-End developer who like create Websites, Bots, and API + Scraping 
 # Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/hansputera/brainly-scraper-languages/issues/1) in [hansputera/brainly-scraper-languages](https://github.com/hansputera/brainly-scraper-languages)
-2. 🗣 Commented on [#1](https://github.com/hansputera/brainly-scraper-languages/issues/1) in [hansputera/brainly-scraper-languages](https://github.com/hansputera/brainly-scraper-languages)
-3. 🗣 Commented on [#1](https://github.com/hansputera/brainly-scraper-languages/issues/1) in [hansputera/brainly-scraper-languages](https://github.com/hansputera/brainly-scraper-languages)
+1. 🗣 Commented on [#1](https://github.com/hansputera/brainly-scraper-languages/issues/1) in [hansputera/brainly-scraper-languages](https://github.com/hansputera/brainly-scraper-languages)
+2. ❗️ Reopened issue [#1](https://github.com/hansputera/brainly-scraper-languages/issues/1) in [hansputera/brainly-scraper-languages](https://github.com/hansputera/brainly-scraper-languages)
+3. ❗️ Closed issue [#1](https://github.com/hansputera/brainly-scraper-languages/issues/1) in [hansputera/brainly-scraper-languages](https://github.com/hansputera/brainly-scraper-languages)
 4. 🗣 Commented on [#1](https://github.com/hansputera/brainly-scraper-languages/issues/1) in [hansputera/brainly-scraper-languages](https://github.com/hansputera/brainly-scraper-languages)
 5. 🗣 Commented on [#1](https://github.com/hansputera/brainly-scraper-languages/issues/1) in [hansputera/brainly-scraper-languages](https://github.com/hansputera/brainly-scraper-languages)
 <!--END_SECTION:activity-->
