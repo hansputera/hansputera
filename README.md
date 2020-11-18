@@ -13,11 +13,11 @@ A 13 y.o. Back-End developer who like create Websites, Bots, and API + Scraping 
 # Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/hansputera/brainly-scraper-languages/issues/1) in [hansputera/brainly-scraper-languages](https://github.com/hansputera/brainly-scraper-languages)
-2. 🗣 Commented on [#11](https://github.com/codeonline-io/codeonline-community/issues/11) in [codeonline-io/codeonline-community](https://github.com/codeonline-io/codeonline-community)
+1. ❗️ Opened issue [#2204](https://github.com/gitpod-io/gitpod/issues/2204) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+2. 🗣 Commented on [#1](https://github.com/hansputera/brainly-scraper-languages/issues/1) in [hansputera/brainly-scraper-languages](https://github.com/hansputera/brainly-scraper-languages)
 3. 🗣 Commented on [#11](https://github.com/codeonline-io/codeonline-community/issues/11) in [codeonline-io/codeonline-community](https://github.com/codeonline-io/codeonline-community)
-4. 🗣 Commented on [#1](https://github.com/hansputera/brainly-scraper-languages/issues/1) in [hansputera/brainly-scraper-languages](https://github.com/hansputera/brainly-scraper-languages)
-5. ❗️ Reopened issue [#1](https://github.com/hansputera/brainly-scraper-languages/issues/1) in [hansputera/brainly-scraper-languages](https://github.com/hansputera/brainly-scraper-languages)
+4. 🗣 Commented on [#11](https://github.com/codeonline-io/codeonline-community/issues/11) in [codeonline-io/codeonline-community](https://github.com/codeonline-io/codeonline-community)
+5. 🗣 Commented on [#1](https://github.com/hansputera/brainly-scraper-languages/issues/1) in [hansputera/brainly-scraper-languages](https://github.com/hansputera/brainly-scraper-languages)
 <!--END_SECTION:activity-->
 
 ## My GitHub Statistics
