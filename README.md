@@ -21,7 +21,9 @@ A 13 y.o. Back-End developer who like create Websites, Bots, and API + Scraping 
 <!--END_SECTION:activity-->
 
 ## My GitHub Statistics
-[![GiHhub Stats](https://github-readme-stats.vercel.app/api?username=hansputera&show_icons=true&theme=dark)](https://github.com/hansputera)
+
+[![tropghy](https://github-profile-trophy.vercel.app/?username=hansputera&theme=dracula)](https://github.com/hansputera)
+[![GiHhub Stats](https://github-readme-stats.vercel.app/api?username=hansputera&show_icons=true&theme=dark&count_private=true)](https://github.com/hansputera)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansputera&layout=compact&theme=dark)](https://github.com/hansputera)
 
 ## Social Media
