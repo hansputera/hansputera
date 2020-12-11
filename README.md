@@ -13,11 +13,11 @@ A 13 y.o. Back-End developer who like create Websites, Bots, and API + Scraping 
 # Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/hansputera/horny-whatsapp/issues/1) in [hansputera/horny-whatsapp](https://github.com/hansputera/horny-whatsapp)
-2. ❗️ Closed issue [#1](https://github.com/hansputera/horny-whatsapp/issues/1) in [hansputera/horny-whatsapp](https://github.com/hansputera/horny-whatsapp)
-3. 🗣 Commented on [#1](https://github.com/hansputera/horny-whatsapp/issues/1) in [hansputera/horny-whatsapp](https://github.com/hansputera/horny-whatsapp)
-4. 🗣 Commented on [#3](https://github.com/hansputera/brainly-scraper-languages/issues/3) in [hansputera/brainly-scraper-languages](https://github.com/hansputera/brainly-scraper-languages)
-5. ❌ Closed PR [#10](https://github.com/defrindr/brainly-scraper/pull/10) in [defrindr/brainly-scraper](https://github.com/defrindr/brainly-scraper)
+1. 🎉 Merged PR [#21](https://github.com/hansputera/whatsapp-bot/pull/21) in [hansputera/whatsapp-bot](https://github.com/hansputera/whatsapp-bot)
+2. 🗣 Commented on [#1](https://github.com/hansputera/horny-whatsapp/issues/1) in [hansputera/horny-whatsapp](https://github.com/hansputera/horny-whatsapp)
+3. ❗️ Closed issue [#1](https://github.com/hansputera/horny-whatsapp/issues/1) in [hansputera/horny-whatsapp](https://github.com/hansputera/horny-whatsapp)
+4. 🗣 Commented on [#1](https://github.com/hansputera/horny-whatsapp/issues/1) in [hansputera/horny-whatsapp](https://github.com/hansputera/horny-whatsapp)
+5. 🗣 Commented on [#3](https://github.com/hansputera/brainly-scraper-languages/issues/3) in [hansputera/brainly-scraper-languages](https://github.com/hansputera/brainly-scraper-languages)
 <!--END_SECTION:activity-->
 
 ## My GitHub Statistics
