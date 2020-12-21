@@ -13,11 +13,11 @@ A 13 y.o. Back-End developer who like create Websites, Bots, and API + Scraping 
 # Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/hansputera/qwertyz-bot/pull/3) in [hansputera/qwertyz-bot](https://github.com/hansputera/qwertyz-bot)
-2. 🎉 Merged PR [#21](https://github.com/hansputera/whatsapp-bot/pull/21) in [hansputera/whatsapp-bot](https://github.com/hansputera/whatsapp-bot)
-3. 🗣 Commented on [#1](https://github.com/hansputera/horny-whatsapp/issues/1) in [hansputera/horny-whatsapp](https://github.com/hansputera/horny-whatsapp)
-4. ❗️ Closed issue [#1](https://github.com/hansputera/horny-whatsapp/issues/1) in [hansputera/horny-whatsapp](https://github.com/hansputera/horny-whatsapp)
-5. 🗣 Commented on [#1](https://github.com/hansputera/horny-whatsapp/issues/1) in [hansputera/horny-whatsapp](https://github.com/hansputera/horny-whatsapp)
+1. 🗣 Commented on [#446](https://github.com/JoshuaWise/better-sqlite3/issues/446) in [JoshuaWise/better-sqlite3](https://github.com/JoshuaWise/better-sqlite3)
+2. 🎉 Merged PR [#3](https://github.com/hansputera/qwertyz-bot/pull/3) in [hansputera/qwertyz-bot](https://github.com/hansputera/qwertyz-bot)
+3. 🎉 Merged PR [#21](https://github.com/hansputera/whatsapp-bot/pull/21) in [hansputera/whatsapp-bot](https://github.com/hansputera/whatsapp-bot)
+4. 🗣 Commented on [#1](https://github.com/hansputera/horny-whatsapp/issues/1) in [hansputera/horny-whatsapp](https://github.com/hansputera/horny-whatsapp)
+5. ❗️ Closed issue [#1](https://github.com/hansputera/horny-whatsapp/issues/1) in [hansputera/horny-whatsapp](https://github.com/hansputera/horny-whatsapp)
 <!--END_SECTION:activity-->
 
 ## My GitHub Statistics
