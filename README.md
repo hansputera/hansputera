@@ -13,11 +13,11 @@ A 13 y.o. Back-End developer who like create Websites, Bots, and API + Scraping 
 # Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/hansputera/whatsapp-bot/pull/22) in [hansputera/whatsapp-bot](https://github.com/hansputera/whatsapp-bot)
-2. ❌ Closed PR [#19](https://github.com/hansputera/whatsapp-bot/pull/19) in [hansputera/whatsapp-bot](https://github.com/hansputera/whatsapp-bot)
-3. 🎉 Merged PR [#24](https://github.com/hansputera/whatsapp-bot/pull/24) in [hansputera/whatsapp-bot](https://github.com/hansputera/whatsapp-bot)
-4. 🎉 Merged PR [#2](https://github.com/hansputera/darknudes/pull/2) in [hansputera/darknudes](https://github.com/hansputera/darknudes)
-5. 🗣 Commented on [#446](https://github.com/JoshuaWise/better-sqlite3/issues/446) in [JoshuaWise/better-sqlite3](https://github.com/JoshuaWise/better-sqlite3)
+1. 🎉 Merged PR [#1](https://github.com/hansputera/spotify-login-oauth2/pull/1) in [hansputera/spotify-login-oauth2](https://github.com/hansputera/spotify-login-oauth2)
+2. 🎉 Merged PR [#22](https://github.com/hansputera/whatsapp-bot/pull/22) in [hansputera/whatsapp-bot](https://github.com/hansputera/whatsapp-bot)
+3. ❌ Closed PR [#19](https://github.com/hansputera/whatsapp-bot/pull/19) in [hansputera/whatsapp-bot](https://github.com/hansputera/whatsapp-bot)
+4. 🎉 Merged PR [#24](https://github.com/hansputera/whatsapp-bot/pull/24) in [hansputera/whatsapp-bot](https://github.com/hansputera/whatsapp-bot)
+5. 🎉 Merged PR [#2](https://github.com/hansputera/darknudes/pull/2) in [hansputera/darknudes](https://github.com/hansputera/darknudes)
 <!--END_SECTION:activity-->
 
 ## My GitHub Statistics
