@@ -14,11 +14,11 @@ A 13 y.o. Back-End developer who like create Websites, Bots, and API + Scraping 
 # Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#115297](https://github.com/microsoft/vscode/issues/115297) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. ❗️ Opened issue [#325](https://github.com/hoangvvo/next-session/issues/325) in [hoangvvo/next-session](https://github.com/hoangvvo/next-session)
-3. 🎉 Merged PR [#1](https://github.com/hansputera/spotify-login-oauth2/pull/1) in [hansputera/spotify-login-oauth2](https://github.com/hansputera/spotify-login-oauth2)
-4. 🎉 Merged PR [#22](https://github.com/hansputera/whatsapp-bot/pull/22) in [hansputera/whatsapp-bot](https://github.com/hansputera/whatsapp-bot)
-5. ❌ Closed PR [#19](https://github.com/hansputera/whatsapp-bot/pull/19) in [hansputera/whatsapp-bot](https://github.com/hansputera/whatsapp-bot)
+1. 🎉 Merged PR [#2](https://github.com/hansputera/bot-doggy/pull/2) in [hansputera/bot-doggy](https://github.com/hansputera/bot-doggy)
+2. ❗️ Opened issue [#115297](https://github.com/microsoft/vscode/issues/115297) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. ❗️ Opened issue [#325](https://github.com/hoangvvo/next-session/issues/325) in [hoangvvo/next-session](https://github.com/hoangvvo/next-session)
+4. 🎉 Merged PR [#1](https://github.com/hansputera/spotify-login-oauth2/pull/1) in [hansputera/spotify-login-oauth2](https://github.com/hansputera/spotify-login-oauth2)
+5. 🎉 Merged PR [#22](https://github.com/hansputera/whatsapp-bot/pull/22) in [hansputera/whatsapp-bot](https://github.com/hansputera/whatsapp-bot)
 <!--END_SECTION:activity-->
 
 ## My GitHub Statistics
