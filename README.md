@@ -14,11 +14,11 @@ A 13 y.o. Back-End developer who like create Websites, Bots, and API + Scraping 
 # Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#446](https://github.com/JoshuaWise/better-sqlite3/issues/446) in [JoshuaWise/better-sqlite3](https://github.com/JoshuaWise/better-sqlite3)
+1. ❗️ Closed issue [#1](https://github.com/FaiqGaming/FaiqGaming/issues/1) in [FaiqGaming/FaiqGaming](https://github.com/FaiqGaming/FaiqGaming)
 2. 🗣 Commented on [#446](https://github.com/JoshuaWise/better-sqlite3/issues/446) in [JoshuaWise/better-sqlite3](https://github.com/JoshuaWise/better-sqlite3)
-3. 🗣 Commented on [#28](https://github.com/hansputera/whatsapp-bot/issues/28) in [hansputera/whatsapp-bot](https://github.com/hansputera/whatsapp-bot)
-4. 🗣 Commented on [#1](https://github.com/FaiqGaming/FaiqGaming/issues/1) in [FaiqGaming/FaiqGaming](https://github.com/FaiqGaming/FaiqGaming)
-5. ❗️ Opened issue [#1](https://github.com/FaiqGaming/FaiqGaming/issues/1) in [FaiqGaming/FaiqGaming](https://github.com/FaiqGaming/FaiqGaming)
+3. 🗣 Commented on [#446](https://github.com/JoshuaWise/better-sqlite3/issues/446) in [JoshuaWise/better-sqlite3](https://github.com/JoshuaWise/better-sqlite3)
+4. 🗣 Commented on [#28](https://github.com/hansputera/whatsapp-bot/issues/28) in [hansputera/whatsapp-bot](https://github.com/hansputera/whatsapp-bot)
+5. 🗣 Commented on [#1](https://github.com/FaiqGaming/FaiqGaming/issues/1) in [FaiqGaming/FaiqGaming](https://github.com/FaiqGaming/FaiqGaming)
 <!--END_SECTION:activity-->
 
 ## My GitHub Statistics
