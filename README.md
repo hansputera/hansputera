@@ -3,8 +3,6 @@
 
 Interested in the way the bot works. And, scraping.
 
-A 13 y.o. Back-End developer who like create Websites, Bots, and API + Scraping tools.
-
 # 👍 Hobby
 
 - **Coding 💻**
@@ -30,4 +28,6 @@ A 13 y.o. Back-End developer who like create Websites, Bots, and API + Scraping 
 ## Social Media
 
 ![Discord](https://discord.c99.nl/widget/theme-3/761198669302464533.png)
-- [Instagram](https://instagram.com/hanif.dwy.putra12)
+[Instagram](https://instagram.com/hanif.dwy.putra12)
+[Telegram](https://t.me/hanifdwypoetra)
+[Twitter](https://twitter.com/hanifdwypoetra)
