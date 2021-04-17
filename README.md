@@ -24,13 +24,3 @@ Interested in the way the bot works. And, scraping.
 [![tropghy](https://github-profile-trophy.vercel.app/?username=hansputera&theme=dracula)](https://github.com/hansputera)
 [![GiHhub Stats](https://github-readme-stats.vercel.app/api?username=hansputera&show_icons=true&theme=dark&count_private=true)](https://github.com/hansputera)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansputera&layout=compact&theme=dark)](https://github.com/hansputera)
-
-## Social Media
-
-![Discord](https://discord.c99.nl/widget/theme-3/761198669302464533.png)
-
-[Instagram](https://instagram.com/hanif.dwy.putra12)
-
-[Telegram](https://t.me/hanifdwypoetra)
-
-[Twitter](https://twitter.com/hanifdwypoetra)
