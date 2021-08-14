@@ -24,3 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hansputera&show_icons=true&locale=en&theme=dark" alt="hansputera" /></p>
 
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=hansputera&layout=compact" alt="hansputera" /></p>
