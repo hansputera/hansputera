@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-Let me introduce myself. My name is "Hanif Dwy Putra S", you can call me "Hanif". I'm 15 years old. And, I'm from Central Sulawesi, Palu, Indonesia. I love web scraping (I think), and creating bugs 🐛
+Let me introduce myself. My name is "Hanif Dwy Putra S", you can call me "Hanif". I'm 17 years old. And, I'm from Central Sulawesi, Palu, Indonesia. I love web scraping (I think), and creating bugs 🐛
 
 ## Projects 🌟
 - [TikTok Downloader Rest API](https://github.com/hansputera/tiktok-dl) to retrieve TikTok's video metadata like video download URLs, music, video author, etc..
