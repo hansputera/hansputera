@@ -17,3 +17,8 @@ Let me introduce myself. My name is "Hanif Dwy Putra S", you can call me "Hanif"
 -------------------------
 
 Thank you for reading, have a nice day 👍
+
+## Cryptocurrency addresses
+1. BTC: `bc1qe4gj4wgv7wjlqfe94hhdr30paekmwsg59988mw`
+2. Ethereum: `0xFd05a10c3f255108cd853Fc299E5090390d6428b`
+3. Solana: `FbqmAXRDKNpAAvLc5kNuQyNpsHiLfEJafLzJfQRpgUNs`
