@@ -3,4 +3,4 @@
 <p align="center">Hello hello hii!! I'm Hanif Dwy Putra S., I'm tech enthusiast and still beginner in programming</p>
 
 ---
-<p align="center">actively yapping on <a href="https://x.com/hanifdwypoetra">X</a> and <a href="https://www.threads.com/@hanif.dwy.sembiring20">Threads</a></p>
+<p align="center">actively yapping on <a href="https://x.com/hanifdwypoetra">X</a>, <a href="https://www.threads.com/@hanif.dwy.sembiring20">Threads</a>, and <a href="https://hanifu.id">Blog</a></p>
